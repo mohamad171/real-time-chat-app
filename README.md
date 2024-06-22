@@ -32,7 +32,7 @@ This project is a real-time chat app that uses Redis Pub/Sub and Stream to enabl
 1. Clone the repository: `git clone https://github.com/PEMIDI/real-time-chat-app.git`
 2. Install the required packages: `pip install -r requirements.txt`
 3. Start the Redis server: `redis-server`
-4. Run the app: `python app.py`
+4. Run the app: `python app.py [channel_name]`
 
 ### Using the App
 
